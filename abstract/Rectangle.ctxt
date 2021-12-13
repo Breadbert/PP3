@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=a\ b
+comment1.target=Rectangle(int,\ int)
+comment2.params=
+comment2.target=void\ surfaceArea()
+comment3.params=
+comment3.target=void\ perimeter()
+numComments=4
